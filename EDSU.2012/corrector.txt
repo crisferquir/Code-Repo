@@ -1,0 +1,87 @@
+Return-Path: <ssoo@triqui2.fi.upm.es>
+X-Original-To: r090113
+Delivered-To: r090113@triqui2.fi.upm.es
+Received: by triqui2.fi.upm.es (Postfix, from userid 1000)
+	id 7E56B1C0ACF; Tue,  9 Apr 2013 13:53:21 +0200 (CEST)
+Date: Tue, 09 Apr 2013 13:53:21 +0200
+To: r090113@triqui2.fi.upm.es
+Subject: Correccion de EdSu (NOTA 5)
+User-Agent: Heirloom mailx 12.4 7/29/08
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_51640131.w8NSilHZydT4eE6wc7/oEEoSi0wN+Qv/s1ytYM1y4WD4n5GH"
+Message-Id: <20130409115321.7E56B1C0ACF@triqui2.fi.upm.es>
+From: ssoo@triqui2.fi.upm.es (SSOO)
+
+This is a multi-part message in MIME format.
+
+--=_51640131.w8NSilHZydT4eE6wc7/oEEoSi0wN+Qv/s1ytYM1y4WD4n5GH
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+En el fichero adjunto se encuentra el resultado de la correccion de la practica
+
+--=_51640131.w8NSilHZydT4eE6wc7/oEEoSi0wN+Qv/s1ytYM1y4WD4n5GH
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: 8bit
+Content-Disposition: attachment;
+ filename="traza"
+
+RESULTADO DE LA CORRECCIÓN DE LA PRÁCTICA
+DE SISTEMAS DISTRIBUIDOS EdSu
+
+GRUPO:
+16620343Z BlÃ¡zquez Bea JosÃ©_Antonio
+
+FECHA DE CORRECCIÓN: Tue Apr  9 13:35:59 CEST 2013
+-----------------------------------------------------------------------
+
+
+PRUEBA 1: USANDO 1 SUBSCRIPTOR, 1 EDITOR y 1 TEMA, CON UN SOLO EVENTO
+	FUNCIONAMIENTO CORRECTO: Valoración de la prueba 1
+
+
+PRUEBA 2: USANDO 1 SUBSCRIPTOR, 1 EDITOR y 1 TEMA
+	FUNCIONAMIENTO CORRECTO: Valoración de la prueba 1
+
+
+PRUEBA 3: USANDO 1 SUBSCRIPTOR, 1 EDITOR y N TEMAS
+	FUNCIONAMIENTO CORRECTO: Valoración de la prueba 1
+
+
+PRUEBA 4: CASOS DE ERROR (alta de tema no existente, baja de tema no existente o no dado de alta, generar evento de tema no existente, ...)
+	BLOQUEO EN LA PRUEBA
+
+
+PRUEBA 5: USANDO 1 SUBSCRIPTOR, N EDITORES y M TEMAS
+	FUNCIONAMIENTO CORRECTO: Valoración de la prueba 1
+
+
+PRUEBA 6: USANDO N SUBSCRIPTORES, 1 EDITOR y M TEMAS
+	BLOQUEO EN LA PRUEBA
+
+
+PRUEBA 7: USANDO N SUBSCRIPTORES, M EDITORES y P TEMAS
+	FUNCIONAMIENTO CORRECTO: Valoración de la prueba 1
+
+
+PRUEBA 8: USANDO N SUBSCRIPTORES, M EDITORES y P TEMAS DINÁMICOS: PROBANDO A CREAR Y ELIMINAR TEMAS CON SUBSCRIPTORES YA INICIADOS
+	ERROR EN LA NOTIFICACION DE EVENTOS
+
+
+PRUEBA 9: USANDO N SUBSCRIPTORES, M EDITORES y P TEMAS DINÁMICOS: PROBANDO NOTIFICACION DE TEMAS EXISTENTES AL INICIO DEL SUBSCRIPTOR
+	ERROR EN LA NOTIFICACION DE EVENTOS
+
+
+PRUEBA 10: USANDO N SUBSCRIPTORES, M EDITORES y P TEMAS DINÁMICOS: PROBANDO FIN DE SUBSCRIPCION
+	ERROR EN LA NOTIFICACION DE EVENTOS
+
+
+
+===================================================
+
+
+NOTA TOTAL= 5
+
+--=_51640131.w8NSilHZydT4eE6wc7/oEEoSi0wN+Qv/s1ytYM1y4WD4n5GH--
